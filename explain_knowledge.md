@@ -16,8 +16,8 @@ Output structure:
 6. Concrete example
 7. Common misunderstanding
 8. What is the most valuable thing to learn from it
-9. 
-9. Three self-check questions
+9. Any nice mnemonic if you think it would be good to remember something, instead of understanding the principle under the hood.
+10. Three self-check questions
 
 Style:
 - Explain from easy to precise.
